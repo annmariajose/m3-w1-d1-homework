@@ -2,10 +2,10 @@
   "name": "node-http",
   "version": "1.0.0",
   "description": "Node HTTP Module",
-  "main": "server_task1.js",
+  "main": "server_task2.js",
   "scripts": {
     "test": "git repository, keywords",
-    "start": "node server_task1"
+    "start": "node server_task2"
   },
   "author": "Ann",
   "license": "ISC"
